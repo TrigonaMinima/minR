@@ -1,0 +1,2 @@
+# minR
+Short R scripts.
